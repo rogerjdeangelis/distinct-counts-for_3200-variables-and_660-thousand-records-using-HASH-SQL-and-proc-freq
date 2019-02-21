@@ -7,6 +7,11 @@ Distinct counts for 3,200 variables and 660 thousand records using HASH SQL and 
       github
       https://tinyurl.com/yymhk4yw
       https://github.com/rogerjdeangelis/distinct-counts-for_3200-variables-and_660-thousand-records-using-HASH-SQL-and-proc-freq
+      
+      macros
+      https://tinyurl.com/y9nfugth
+      https://github.com/rogerjdeangelis/utl-macros-used-in-many-of-rogerjdeangelis-repositories
+
 
       Distinct counts for 3,200 variables and 660,000 records
 
